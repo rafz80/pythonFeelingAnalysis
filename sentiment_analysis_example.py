@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Feeling analysis example by Raphael Ramos
+"""Sentiment analysis example by Raphael Ramos
 
 
 Original file is located at
