@@ -1,5 +1,5 @@
-# pythonFeelingAnalysis
-Feeling analysis example using Python 3 and Natural Language Toolkit (NLTK)
+# pythonSentimentAnalysis
+Sentiment analysis example using Python 3 and Natural Language Toolkit (NLTK)
 
 Please, "pip install nltk" and some dependencies that will be required to run.
 
