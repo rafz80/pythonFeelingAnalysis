@@ -1,6 +1,8 @@
 # pythonSentimentAnalysis
 Sentiment analysis example using Python 3 and Natural Language Toolkit (NLTK)
 
+Some instructions are commented in code.
+
 Please, "pip install nltk" and some other dependencies that may be required to run.
 
 
